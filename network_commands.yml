@@ -1,5 +1,5 @@
 ---
-- name: cli command playbook
+- name: cli command playbook1
   hosts: all
   gather_facts: no
   vars:
